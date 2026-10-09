@@ -1,4 +1,4 @@
-<a href="https://hostkeep.tech"><img src="https://hostkeep.tech/og.png" alt="Hostkeep: ask your machines what happened last night" width="100%"></a>
+<a href="https://hostkeep.tech"><img src="https://hostkeep.tech/og.png?v=2" alt="Hostkeep: ask your machines what happened last night" width="100%"></a>
 
 # Hostkeep
 
